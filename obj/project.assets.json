@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Documents\\.NetCore\\MaNguonMo\\MaNguonMo.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\MaNguonMo.csproj",
       "projectName": "MaNguonMo",
-      "projectPath": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Documents\\.NetCore\\MaNguonMo\\MaNguonMo.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\MaNguonMo.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Documents\\.NetCore\\MaNguonMo\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

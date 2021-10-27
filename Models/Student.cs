@@ -1,4 +1,6 @@
 namespace MaNguonMo.Models
 {
-    public string Name { get; set; }
+    public class Student {
+        public string Name {get; set;}
+    }
 }
