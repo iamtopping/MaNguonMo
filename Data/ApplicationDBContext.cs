@@ -13,4 +13,12 @@ using MaNguonMo.Models;
         }
 
         public DbSet<MaNguonMo.Models.Movie> Movie { get; set; }
+
+        public DbSet<MaNguonMo.Models.Student> Student { get; set; }
+
+        public DbSet<MaNguonMo.Models.Person> Person { get; set; }
+
+        public DbSet<MaNguonMo.Models.Product> Product { get; set; }
+
+        public DbSet<MaNguonMo.Models.Employee> Employee { get; set; }
     }
