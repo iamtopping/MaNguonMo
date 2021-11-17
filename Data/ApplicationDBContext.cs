@@ -21,4 +21,5 @@ using MaNguonMo.Models;
         public DbSet<MaNguonMo.Models.Product> Product { get; set; }
 
         public DbSet<MaNguonMo.Models.Employee> Employee { get; set; }
+        public DbSet<DemoMVC.Models.Person> people {get; set;}
     }
