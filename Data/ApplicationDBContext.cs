@@ -22,4 +22,7 @@ using MaNguonMo.Models;
 
         public DbSet<MaNguonMo.Models.Employee> Employee { get; set; }
         public DbSet<DemoMVC.Models.Person> people {get; set;}
+        public DbSet<KhachHang> KhachHangs {get; set;}
+        public DbSet<MaNguonMo.Models.HoaDon> HoaDon { get; set; }
+        
     }

@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\KhachHang\\Index.cshtml",
+      "TargetPath": "Views\\KhachHang\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Student\\Delete.cshtml",
       "TargetPath": "Views\\Student\\Delete.cshtml",
       "FileKind": "mvc"
@@ -15654,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\KhachHang\\Details.cshtml",
+      "TargetPath": "Views\\KhachHang\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15661,6 +15671,11 @@
     {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HelloWorld\\Welcome.cshtml",
       "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HoaDon\\Delete.cshtml",
+      "TargetPath": "Views\\HoaDon\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15684,6 +15699,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\KhachHang\\Edit.cshtml",
+      "TargetPath": "Views\\KhachHang\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Employee\\Index.cshtml",
       "TargetPath": "Views\\Employee\\Index.cshtml",
       "FileKind": "mvc"
@@ -15694,8 +15714,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\KhachHang\\Delete.cshtml",
+      "TargetPath": "Views\\KhachHang\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Student\\Index.cshtml",
       "TargetPath": "Views\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HoaDon\\Details.cshtml",
+      "TargetPath": "Views\\HoaDon\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15749,6 +15779,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\KhachHang\\Create.cshtml",
+      "TargetPath": "Views\\KhachHang\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HoaDon\\Create.cshtml",
+      "TargetPath": "Views\\HoaDon\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Student\\Create.cshtml",
       "TargetPath": "Views\\Student\\Create.cshtml",
       "FileKind": "mvc"
@@ -15774,6 +15814,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HoaDon\\Index.cshtml",
+      "TargetPath": "Views\\HoaDon\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Movie\\Edit.cshtml",
       "TargetPath": "Views\\Movie\\Edit.cshtml",
       "FileKind": "mvc"
@@ -15786,6 +15831,11 @@
     {
       "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\Person\\Delete.cshtml",
       "TargetPath": "Views\\Person\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ADMIN\\OneDrive - Hanoi University of Mining and Geology\\Desktop\\.NetCore\\MaNguonMo\\Views\\HoaDon\\Edit.cshtml",
+      "TargetPath": "Views\\HoaDon\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
