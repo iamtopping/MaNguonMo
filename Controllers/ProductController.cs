@@ -19,10 +19,33 @@ namespace MaNguonMo.Controllers
         }
 
         // GET: Product
-        public async Task<IActionResult> Index()
+       public async Task<IActionResult> Index(string productName, string quantityType)
+    {
+        IQueryable<string> quantityQuery = from m in _context.Product
+                                        orderby m.Quantity
+                                        select m.Quantity;
+
+        var products = from m in _context.Product
+                    select m;
+
+        if (!string.IsNullOrEmpty(quantityType))
         {
-            return View(await _context.Product.ToListAsync());
+            products = products.Where(s => s.Quantity.ToLower().Contains(quantityType.ToLower()));
         }
+
+        if (!string.IsNullOrEmpty(productName))
+        {
+            products = products.Where(x => x.Name == productName);
+        }
+
+        var productVM = new ProductViewModel
+        {
+            Quantitys = new SelectList(await quantityQuery.Distinct().ToListAsync()),
+            Products = await products.ToListAsync()
+        };
+        
+        return View(productVM);
+    }
 
         // GET: Product/Details/5
         public async Task<IActionResult> Details(string id)
